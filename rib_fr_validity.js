@@ -11,7 +11,7 @@
  * we must obtain the key, otherwise the rib is not valid.
  * 
  */
-$.validator.addMethod("rib_fr_full", function (value, element) {
+$.validator.addMethod("rib_fr_validity", function (value, element) {
     if (this.optional(element)) {
         return true;
     }

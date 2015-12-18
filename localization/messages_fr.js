@@ -46,6 +46,6 @@ $.extend( $.validator.messages, {
 	nieES: "Veuillez fournir un numéro NIE valide.",
 	cifES: "Veuillez fournir un numéro CIF valide.",
 	postalCodeCA: "Veuillez fournir un code postal valide.",
-	rib_fr_simple: "Veuillez entrer un RIB valide",
-	rib_fr_full: "Veuillez entrer un RIB valide"
+	rib_fr_format: "Veuillez entrer un RIB valide",
+	rib_fr_validity: "Veuillez entrer un RIB valide"
 } );

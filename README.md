@@ -11,5 +11,8 @@ It might be added [here](https://github.com/jzaefferer/jquery-validation/tree/ma
 
 
 
+There are two different validation methods: 
 
+- rib_fr_format: check that the format is correct (99999 - 99999 - *********** - 99)
+- rib_fr_validity: check that the rib is valid (check the format, plus, check that some specific algorithm validates)
 
